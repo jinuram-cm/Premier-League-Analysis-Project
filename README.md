@@ -30,12 +30,7 @@ A data analysis project exploring player and team performance in the English Pre
 
 English Premier League 2020/21 player statistics from Kaggle. The dataset file is included in this repository.
 
-## Sample charts
 
-All charts are saved in the `charts` folder.
-
-![Top 10 goal scorers](charts/[chart-file-name].png)
-![Top 10 assist leaders](charts/[chart-file-name].png)
 
 ## How to run
 
